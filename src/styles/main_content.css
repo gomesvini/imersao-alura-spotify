@@ -91,3 +91,29 @@
     border-radius: 40px;
     background-color: #ffffff;
 }
+
+/* PLAYLIST */
+.playlist_container {
+    height: 68vh;
+    padding-top: 16px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #121212;
+}
+
+.playlist {
+    margin: 24px;
+}
+
+.playlist #greeting {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.playlist .greeting_subtitle {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+}
