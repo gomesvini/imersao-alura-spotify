@@ -155,12 +155,13 @@ body {
 }
 
 .languages .languages_button {
+    align-items: center;
     background-color: transparent;
     border: 1px solid #878787;
     color: #ffffff;
     font-weight: bold;
     cursor: pointer;
-    width: 180px;
+    width: 170px;
     margin: 8px;
     padding: 8px;
     border-radius: 20px;
